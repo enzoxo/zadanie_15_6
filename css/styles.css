@@ -1,0 +1,17 @@
+body{
+	background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+.controls{
+	margin-top: 100px;
+	text-align: center;
+	border: 5px solid black;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding: 5px;	
+}
+
+
+a{
+	color: white;
+	text-decoration: none;
+}
